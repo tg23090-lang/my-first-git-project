@@ -1,1 +1,5 @@
-include<main>
+#include <stdio.h>
+
+int main(void) {
+    return;
+}
